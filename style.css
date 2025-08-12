@@ -39,12 +39,12 @@ h2 {
   margin-bottom: 1rem;
 }
 
-/* Certificates - pure CSS slider */
+/* Certificates Css Animation */
 .certificate-container {
   position: relative;
   width: 100%;
   max-width: 600px;
-  height: 415px;
+  height: 450px;
   margin: auto;
   overflow: hidden;
 }
@@ -75,7 +75,7 @@ h2 {
   100% { opacity: 0; transform: scale(0.9); }
 }
 
-
+    /* contact */
 .contact-info a {
   color: #38bdf8;
   text-decoration: none;
