@@ -4,12 +4,31 @@ body{
 }
 
 .title , p {
-            color: blue;
-            font-size: 2em;
+            color: rgb(255, 255, 255);
+            font-size: 4em;
             text-align: center;
             margin-top: 10px;
 }
+
+.Name , p {
+    color: white;
+    font-size: 2em;
+}
+
+.Skill , p {
+    color: white;
+    font-size: 2em;
+}
+
+.Certificate , p {
+    color: white;
+    font-size: 2em;
+}
   
+.Contrack , p {
+    color: white;
+    font-size: 2em;
+}
 
 
   
